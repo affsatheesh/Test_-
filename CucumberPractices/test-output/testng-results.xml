@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43971" started-at="2020-07-09T12:59:27Z" finished-at="2020-07-09T13:00:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43971" started-at="2020-07-09T12:59:27Z" finished-at="2020-07-09T13:00:11Z">
+      <class name="testcase_4.Testcase_4">
+        <test-method status="PASS" signature="CreateProfile()[pri:0, instance:testcase_4.Testcase_4@13275d8]" name="CreateProfile" duration-ms="43800" started-at="2020-07-09T12:59:27Z" finished-at="2020-07-09T13:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateProfile -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:testcase_4.Testcase_4@13275d8]" name="CloseBrowser" is-config="true" duration-ms="2707" started-at="2020-07-09T13:00:11Z" finished-at="2020-07-09T13:00:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- testcase_4.Testcase_4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
